@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mountainanim.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mountainaj40000" x="50" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40001" x="2660" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40002" x="50" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40003" x="2660" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40004" x="5270" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40005" x="5270" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40006" x="5270" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40007" x="5270" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40008" x="50" y="1500" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40009" x="50" y="1500" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40010" x="50" y="1500" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40011" x="2660" y="1500" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40012" x="2660" y="1500" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40013" x="2660" y="1500" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40014" x="2660" y="1500" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40015" x="2660" y="1500" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40016" x="2660" y="1500" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40017" x="5270" y="1500" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40018" x="50" y="1500" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40019" x="50" y="1500" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40020" x="50" y="1500" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40021" x="50" y="1500" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40022" x="5270" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40023" x="5270" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40024" x="5270" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40025" x="5270" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40026" x="5270" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40027" x="50" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40028" x="50" y="50" width="2560" height="1400"/>
+	<SubTexture name="mountainaj40029" x="50" y="50" width="2560" height="1400"/>
+</TextureAtlas>
