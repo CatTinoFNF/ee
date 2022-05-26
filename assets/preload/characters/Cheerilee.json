@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				310,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				284,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				311,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				311,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				292,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pony",
+	"position": [
+		-50,
+		20
+	],
+	"healthicon": "cheerilee",
+	"flip_x": false,
+	"healthbar_colors": [
+		191,
+		94,
+		149
+	],
+	"camera_position": [
+		-150,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
